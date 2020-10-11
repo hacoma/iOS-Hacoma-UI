@@ -1,6 +1,6 @@
 //
 //  InsetTextField.swift
-//  Example
+//  InsetTextField
 //
 //  Created by hacoma on 2020/10/11.
 //

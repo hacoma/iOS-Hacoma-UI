@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'HacomaUI'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.license = { :type => 'MIT' }
   s.homepage = 'https://github.com/hacoma/iOS-HacomaUI'
   s.authors = { 'hacoma' => 'hacoma92@gmail.com' }
